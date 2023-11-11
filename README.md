@@ -1,2 +1,2 @@
-# uts
-uts bahasa pemrograman
+# UTS BAHASA PEMROGRAMAN
+# UTS SMT 2
